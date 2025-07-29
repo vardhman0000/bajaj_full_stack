@@ -115,4 +115,3 @@ Content-Type: application/json
 
 ---
 
-**Made for Bajaj Finserv Full Stack
