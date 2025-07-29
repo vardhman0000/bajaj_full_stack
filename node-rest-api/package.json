@@ -1,0 +1,15 @@
+{
+  "name": "node-rest-api",
+  "version": "1.0.0",
+  "description": "A REST API to process an array and return various data.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^3.1.10"
+  },
+  "author": "",
+  "license": "ISC"
+}
